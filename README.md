@@ -17,3 +17,6 @@
 ![image](https://github.com/JohnShitMan/EasyTTS_CN/assets/100079441/9f5199c0-414d-4f19-8f5c-62a08733252f)
 
 ![image](https://github.com/JohnShitMan/EasyTTS_CN/assets/100079441/efe706d2-512e-4049-929b-14ba107ce9d2)
+
+## 已知问题：
+- 合成的音频，在用很多播放器播放时，会跳跃或者进度条出问题。但实际使用是正常的。未来可能修复。
